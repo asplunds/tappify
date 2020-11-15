@@ -1,6 +1,6 @@
 {
   "name": "tappify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React.js library to manage client's cursor",
   "main": "Tappify.js",
   "directories": {
@@ -18,5 +18,13 @@
     "finger"
   ],
   "author": "Jonathan Asplund",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asplunds/tappify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asplunds/tappify/issues"
+  },
+  "homepage": "https://github.com/asplunds/tappify#readme"
 }
