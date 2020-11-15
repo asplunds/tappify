@@ -1,0 +1,22 @@
+{
+  "name": "tappify",
+  "version": "1.0.0",
+  "description": "A React.js library to manage client's cursor",
+  "main": "Tappify.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tappify",
+    "cursor",
+    "react",
+    "pointer",
+    "mouse",
+    "finger"
+  ],
+  "author": "Jonathan Asplund",
+  "license": "ISC"
+}
