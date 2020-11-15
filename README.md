@@ -10,7 +10,7 @@ npm i tappify
 ```
 
 ## Getting started
-Everything inside `<Tappify.Finger>` will __show__ when client's pointer is finger (coarse) otherwise __hide__. Respectively `<Tappify.Cursor>` will __show__  when client's pointer is __mouse cursor__ (fine) otherwise __hide__.
+### Basic hide/show
 ```jsx
 import Tappify from "tappify";
 
