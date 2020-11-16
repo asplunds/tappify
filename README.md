@@ -1,7 +1,7 @@
 # Tappify.js
 A lightweight zero dependency [React.js](https://github.com/facebook/react) library to handle the client's pointer. Easily detect client cursor type and hide/show html or perform custom logic!
 
-<img align="right" src="https://i.imgur.com/WObyHD5.gif" width="400"/>
+<img src="https://i.imgur.com/WObyHD5.gif" width="400"/>
 
 ## Install
 
