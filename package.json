@@ -1,7 +1,7 @@
 {
   "name": "tappify",
-  "version": "1.0.2",
-  "description": "A React.js library to manage client's cursor",
+  "version": "1.0.8",
+  "description": "A React.js library to detect touch/mobile/cursor",
   "main": "Tappify.js",
   "directories": {
     "lib": "lib"
@@ -15,7 +15,13 @@
     "react",
     "pointer",
     "mouse",
-    "finger"
+    "finger",
+    "detect",
+    "mouse-component",
+    "mobile-detect",
+    "react-component",
+    "device-detect",
+    "device"
   ],
   "author": "Jonathan Asplund",
   "license": "ISC",
