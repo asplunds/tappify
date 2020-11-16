@@ -1,7 +1,7 @@
 # Tappify.js
 A lightweight zero dependency [React.js](https://github.com/facebook/react) library to handle the client's pointer. Easily detect client cursor type and hide/show html or perform custom logic!
 
-<img align="right" src="https://i.imgur.com/WObyHD5.gif" width="400"/>
+<img src="https://i.imgur.com/WObyHD5.gif" width="400"/>
 
 ## Install
 
@@ -41,6 +41,8 @@ const unsubscribe = Tappify.subscribe(isCursor => {
 
 unsubscribe(); // it's strongly recommended to unsubscribe when component unmounts to avoid memory leaks
 ```
+## [Live demo](https://codesandbox.io/s/javascript-forked-gv8w4?file=/Demo.js)
+
 ## Why Tappify?
 With growing usage of touch screens on computer devices Tappify makes it seamless and easy to detect when user goes in or out of touch mode. In addition tappify provides an easy to use switch case scenario to handle different HTML elements depending on what pointer the client is using.
 
